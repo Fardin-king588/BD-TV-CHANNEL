@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,&FLIX HD
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="& flix" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", & flix
 http://103.124.251.164:28015/play/a01s/index.m3u8
 #EXTINF:-1,&PICTURES HD
 http://103.124.251.164:28015/play/a02o/index.m3u8
@@ -53,5 +53,5 @@ http://103.124.251.164:28015/play/a005/index.m3u8
 http://103.124.251.164:28015/play/a022/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://103.124.251.164:28015/play/a03b/index.m3u8
-#EXTINF:-1,ZEE TV HD
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD
 http://103.124.251.164:28015/play/a037/index.m3u8
