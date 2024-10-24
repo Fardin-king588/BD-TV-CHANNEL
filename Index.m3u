@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Cartoon Network
-http://103.124.251.164:28015/play/a028/index.m3u8
-#EXTINF:-1,HBO Family
-http://103.124.251.164:28015/play/a020/index.m3u8
-#EXTINF:-1,HBO HD
-http://103.124.251.164:28015/play/a01v/index.m3u8
-#EXTINF:-1,HBO Hits HD
-http://103.124.251.164:28015/play/a01w/index.m3u8
-#EXTINF:-1,HBO Signature
-http://103.124.251.164:28015/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Duronto TV" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Duronto TV
+http://starshare.live:8080/live/qwer/qwer/433.m3u8
