@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-Independent TV
+#EXTINF:-1 ,Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-Jamuna TV
+#EXTINF:-1 ,Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
-#EXTINF:-News 24 HD
+#EXTINF:-1 ,News 24 HD
 https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
-#EXTINF:-Nexus TV
+#EXTINF:-1 ,Nexus TV
 https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
-#EXTINF:-N TV 
+#EXTINF:-1 ,N TV 
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-R TV
+#EXTINF:-1 ,R TV
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
-#EXTINF:-SA TV
+#EXTINF:-1 ,SA TV
 https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
-#EXTINF:-Somoy 
+#EXTINF:-1 ,Somoy 
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-#EXTINF:-ABP Ananda
+#EXTINF:-1 ,ABP Ananda
 https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
-#EXTINF:-CALCUTTA NEWS
+#EXTINF:-1 ,CALCUTTA NEWS
 https://ythls.armelin.one/channel/UCJ3I6MHOz5exARlTW_meOGQ.m3u8
-#EXTINF:-ZEE 24 GHANTA
+#EXTINF:-1 ,ZEE 24 GHANTA
 https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
-#EXTINF:-TV9 Bangla 
+#EXTINF:-1 ,TV9 Bangla 
 https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
-#EXTINF:-News18 Bangla 
+#EXTINF:-1 ,News18 Bangla 
 https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
-#EXTINF:-Republic TV Bangla
+#EXTINF:-1 ,Republic TV Bangla
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Duronto TV" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Duronto TV
 http://starshare.live:8080/live/qwer/qwer/433.m3u8
